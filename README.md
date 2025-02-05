@@ -2,7 +2,7 @@
 	<img src="https://github.com/aparna-1205/aparna-1205/blob/main/intro.svg" alt="HI I'M, APARNA PANDEY👋">
 </div>
 
-### I'm an aspiring Software Developer and currently a Computer Science undergrad looking forward to open source communities.
+### I'm an aspiring Software Developer and currently a Information Technology undergrad looking forward to open source communities.
 
 
 - 🌱 Currently learning Web Development
