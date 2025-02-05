@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/aparna-1205/aparna-1205/main/intro.svg" alt="HI I'M, APARNA PANDEY👋">
+	<img src="https://github.com/aparna-1205/aparna-1205/blob/main/intro.svg" alt="HI I'M, APARNA PANDEY👋">
 </div>
 
 ### I'm an aspiring Software Developer and currently a Computer Science undergrad looking forward to open source communities.
